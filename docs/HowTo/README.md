@@ -20,7 +20,7 @@ This tool provides information to help guide a developer to rework or rewrite ce
 
 Another goal of the tools is to provide guidance and insight into possible breaking changes on the .NET Framework that may
 apply to a given assembly. This functionality is currently restricted to .NET Framework 4.x given that it is updated in-place
-with no side-by-side support for alternative versions.  Most of these are considered benign changes that shouldn't affect
+with no side-by-side support for alternative versions.  Most of these are considered breaking changes that shouldn't affect
 most applications; however, we understand that what may be low impact for one scenario may be a very impactful breaking change
 for another. For details, see [Breaking Changes](BreakingChanges.md).
 
